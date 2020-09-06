@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pan-pals/static/css/main.8e5657f1.chunk.css",
+    "main.js": "/pan-pals/static/js/main.328a9555.chunk.js",
+    "main.js.map": "/pan-pals/static/js/main.328a9555.chunk.js.map",
+    "runtime-main.js": "/pan-pals/static/js/runtime-main.0ec9009d.js",
+    "runtime-main.js.map": "/pan-pals/static/js/runtime-main.0ec9009d.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/pan-pals/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.e305715d.chunk.js": "/pan-pals/static/js/2.e305715d.chunk.js",
+    "static/js/2.e305715d.chunk.js.map": "/pan-pals/static/js/2.e305715d.chunk.js.map",
+    "index.html": "/pan-pals/index.html",
+    "precache-manifest.1035bd897b5b05058f69a94018d38eab.js": "/pan-pals/precache-manifest.1035bd897b5b05058f69a94018d38eab.js",
+    "service-worker.js": "/pan-pals/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/pan-pals/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.8e5657f1.chunk.css.map": "/pan-pals/static/css/main.8e5657f1.chunk.css.map",
+    "static/js/2.e305715d.chunk.js.LICENSE.txt": "/pan-pals/static/js/2.e305715d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ec9009d.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.e305715d.chunk.js",
+    "static/css/main.8e5657f1.chunk.css",
+    "static/js/main.328a9555.chunk.js"
+  ]
+}
